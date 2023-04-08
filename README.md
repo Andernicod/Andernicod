@@ -15,7 +15,7 @@ Here are some facts about me:
 <div align="center">
   <a href="https://github.com/Andernicod">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Andernicod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andernicod&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andernicod&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
