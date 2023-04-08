@@ -1,4 +1,4 @@
-### Hi! I'm Anderson, a technology and innovation enthusiast 💻🚀☕
+### Hi! I'm Anderson, computer science student and a technology and innovation enthusiast 💻🚀☕
 
 Here are some facts about me:
 
@@ -10,7 +10,7 @@ Here are some facts about me:
 - 📫 You can find me on LinkedIn or reach me via email at Andersonnicodemo01@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love listening to music while coding, it helps keep my creativity flowing!
--->
+-  ------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div align="center">
   <a href="https://github.com/Andernicod">
