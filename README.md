@@ -15,8 +15,8 @@ Here are some facts about me:
 -  ------------------------------------------------------------------------------------------------------------------------------------------------>
 
 Here are some projects that i have worked:
-- 🎥 CinemaScope - A movie/TV search website with comprehensive information.
-- 🌦️ WeatherSight - A weather forecasting app that updates background image based on searched city.
+- 🎥 **CinemaScope** - A movie/TV search website with comprehensive information.
+- 🌦️ **WeatherSight** - A weather forecasting app that updates background image based on searched city.
 -  ------------------------------------------------------------------------------------------------------------------------------------------------>
 <div align="center">
   <a href="https://github.com/Andernicod">
