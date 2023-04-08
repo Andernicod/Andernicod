@@ -12,6 +12,10 @@ Here are some facts about me:
 - ⚡ Fun fact: I love listening to music while coding, it helps keep my creativity flowing!
 -  ------------------------------------------------------------------------------------------------------------------------------------------------>
 
+Here are some projects that i have worked:
+- 🎥 CinemaScope - A movie/TV search website with comprehensive information.
+- 🌦️ WeatherSight - A weather forecasting app that updates background image based on searched city.
+-  ------------------------------------------------------------------------------------------------------------------------------------------------>
 <div align="center">
   <a href="https://github.com/Andernicod">
   <img style="object-fit: cover;" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Andernicod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
